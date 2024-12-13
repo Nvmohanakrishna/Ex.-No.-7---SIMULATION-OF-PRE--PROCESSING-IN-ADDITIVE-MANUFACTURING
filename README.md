@@ -48,8 +48,8 @@
 ![Screenshot 2024-12-13 042147](https://github.com/user-attachments/assets/273cf422-0f77-4a6e-a50c-c5e6b8167b89)
 
 
-### Name: B. Dhanush kumar
-### Register Number: 24900615
+### Name: Mohana krishna
+### Register Number: 24000587
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
